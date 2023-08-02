@@ -2,7 +2,7 @@
 
 ## Quick Snippets
 
-* For quick snippets of code I frequently use, see the snippets markdown 
+* For quick snippets of code I frequently use, see the snippets markdown (useful_r_snippets.md)
 
 ## INSTALLATION
 
