@@ -1,5 +1,9 @@
 # R Scripts
 
+## Quick Snippets
+
+* For quick snippets of code I frequently use, see the snippets markdown 
+
 ## INSTALLATION
 
 * Use Dockerfile for R version and package versions
